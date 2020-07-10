@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
      * 进入兑换页
      */
     private Button mHuan;
+    private String a="111111";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
